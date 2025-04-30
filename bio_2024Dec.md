@@ -9,4 +9,4 @@ Hao has worked with collaborators and supervised teams on wide-ranging areas in 
 Hao has a PhD in Computer Science, an MA in Statistics, both from UC Berkeley; a BSc from Caltech. As part-time jobs, he worked at Credit Suisse, Mitsubishi Electric Research Lab, Oracle Corp, NASA JPL, and consulted for Youdao.com (China).
 
 
-Hao serves on several philanthpropic organizations that focus on education and research areas of his alma maters.
+Hao serves on several philanthropic organizations that focus on education and research areas of his alma maters.
